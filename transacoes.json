@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "COMPROVANTE DE \nTRANSFERÊNCIA PIX.",
+    "data": "25 JUN 2024",
+    "valor": "2.616,80",
+    "nome_recebedor": "SUPER NORBERTO",
+    "cpf_cnpj_recebedor": "74003000",
+    "instituicao_recebedor": "BANCO DO BRASIL S.A.",
+    "nome_remetente": "ICA CARD ADMINISTRADORA DE \nCATOES",
+    "cpf_cnpj_remetente": "37632000",
+    "instituicao_remetente": "ACESSO SOLUÇÕES DE \nPAGAMENTO S.A.",
+    "estorno": false
+  }
+]
